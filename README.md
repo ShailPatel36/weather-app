@@ -2,8 +2,6 @@
 
 A modern, responsive weather application built with React that works as a Progressive Web App. Get real-time weather information for any city worldwide, with the ability to work offline.
 
-![Weather App Screenshot](./public/images/logo.png)
-
 ## Features
 
 - 🌍 Real-time weather data from OpenWeatherMap API
